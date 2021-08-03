@@ -1,0 +1,23 @@
+{
+  "name": "pokemon",
+  "version": "0.5.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephPL/PokeDex.git"
+  },
+  "author": "JosephPL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosephPL/PokeDex/issues"
+  },
+  "homepage": "https://github.com/JosephPL/PokeDex#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
